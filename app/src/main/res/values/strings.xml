@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Email</string>
+
+    //editText
+    <string name="emailText">To</string>
+    <string name="password">password</string>
+
+    //buttons
+    <string name="sendEmail">Send Email</string>
+
+    //textView
+    <string name="EmailTo">TO:</string>
+    <string name="EmailFrom">FROM</string>
+
+    //blankRow
+    <string name="blank">" "</string>
+</resources>
